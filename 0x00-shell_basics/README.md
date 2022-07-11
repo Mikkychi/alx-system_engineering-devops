@@ -1,1 +1,1 @@
-this is a readme file for shell basics task
+my shell basics task
